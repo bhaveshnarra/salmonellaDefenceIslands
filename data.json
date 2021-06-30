@@ -1,0 +1,527 @@
+[{
+        "data": {
+            "id": "glyph9",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph0",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph6",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph8",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph7",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph12",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph13",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph1",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph2",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph15",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph3",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph17",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph10",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph19",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph11",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph18",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph16",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph22",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph4",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph23",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph24",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph25",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph20",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph26",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph35",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph36",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph37",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph38",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph21",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph42",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph41",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph31",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph27",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph32",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph28",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph43",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph33",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph29",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph39",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph40",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph34",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph30",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph14",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "glyph5",
+            "group": "nodes"
+        }
+    }, {
+        "data": {
+            "id": "e22",
+            "source": "glyph9",
+            "target": "glyph8",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e23",
+            "source": "glyph0",
+            "target": "glyph8",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e24",
+            "source": "glyph8",
+            "target": "glyph1",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e25",
+            "source": "glyph6",
+            "target": "glyph8",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e26",
+            "source": "glyph8",
+            "target": "glyph7",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e27",
+            "source": "glyph11",
+            "target": "glyph12",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e28",
+            "source": "glyph13",
+            "target": "glyph11",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e29",
+            "source": "glyph1",
+            "target": "glyph10",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e30",
+            "source": "glyph10",
+            "target": "glyph2",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e31",
+            "source": "glyph2",
+            "target": "glyph11",
+            "group": "edges"
+        }
+    },
+    //{"data":{"id":"e32","source":"glyph11","target":"glyph3","group":"edges"}},
+    {
+        "data": {
+            "id": "e33",
+            "source": "glyph14",
+            "target": "glyph4",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e34",
+            "source": "glyph15",
+            "target": "glyph14",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e35",
+            "source": "glyph3",
+            "target": "glyph16",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e36",
+            "source": "glyph16",
+            "target": "glyph5",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e37",
+            "source": "glyph16",
+            "target": "glyph4",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e38",
+            "source": "glyph17",
+            "target": "glyph10",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e39",
+            "source": "glyph19",
+            "target": "glyph11",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e40",
+            "source": "glyph18",
+            "target": "glyph16",
+            "group": "edges"
+        }
+    },
+    //{"data":{"id":"e41","source":"glyph22","target":"glyph20","group":"edges"}},
+    {
+        "data": {
+            "id": "e42",
+            "source": "glyph4",
+            "target": "glyph20",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e43",
+            "source": "glyph20",
+            "target": "glyph21",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e44",
+            "source": "glyph23",
+            "target": "glyph20",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e45",
+            "source": "glyph24",
+            "target": "glyph20",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e46",
+            "source": "glyph20",
+            "target": "glyph25",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e47",
+            "source": "glyph20",
+            "target": "glyph26",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e48",
+            "source": "glyph35",
+            "target": "glyph31",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e49",
+            "source": "glyph36",
+            "target": "glyph32",
+            "group": "edges"
+        }
+    },
+    //{"data":{"id":"e50","source":"glyph37","target":"glyph33","group":"edges"}},
+    {
+        "data": {
+            "id": "e51",
+            "source": "glyph38",
+            "target": "glyph34",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e52",
+            "source": "glyph21",
+            "target": "glyph31",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e53",
+            "source": "glyph42",
+            "target": "glyph31",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e54",
+            "source": "glyph31",
+            "target": "glyph41",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e55",
+            "source": "glyph31",
+            "target": "glyph27",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e56",
+            "source": "glyph27",
+            "target": "glyph32",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e57",
+            "source": "glyph32",
+            "target": "glyph28",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e58",
+            "source": "glyph28",
+            "target": "glyph33",
+            "group": "edges"
+        }
+    },
+    //{"data":{"id":"e59","source":"glyph33","target":"glyph43","group":"edges"}},
+    //{"data":{"id":"e60","source":"glyph33","target":"glyph29","group":"edges"}},
+    {
+        "data": {
+            "id": "e61",
+            "source": "glyph29",
+            "target": "glyph34",
+            "group": "edges"
+        }
+    },
+    //{"data":{"id":"e62","source":"glyph39","target":"glyph34","group":"edges"}},
+    {
+        "data": {
+            "id": "e63",
+            "source": "glyph34",
+            "target": "glyph40",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e64",
+            "source": "glyph34",
+            "target": "glyph30",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e65",
+            "source": "glyph14",
+            "target": "glyph5",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e66",
+            "source": "glyph33",
+            "target": "glyph35",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e67",
+            "source": "glyph13",
+            "target": "glyph22",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e68",
+            "source": "glyph17",
+            "target": "glyph6",
+            "group": "edges"
+        }
+    }, {
+        "data": {
+            "id": "e69",
+            "source": "glyph25",
+            "target": "glyph27",
+            "group": "edges"
+        }
+    }
+]
